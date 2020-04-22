@@ -1,0 +1,2 @@
+# MyOmikuji-training
+ドットインストール　MyOmikuji
